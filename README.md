@@ -77,6 +77,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 - Laravel Framework
 - Bootstrap
+- Javascript
 
 ## Support
 
